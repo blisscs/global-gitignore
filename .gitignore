@@ -1,3 +1,18 @@
+# Ignore environment override
 .env
 .envrc
+
 .~lock.*#
+
+# Local .terraform directories
+ **/.terraform/*
+
+#  Ignore variables files
+ *.auto.tfvars
+
+#  Ignore override files
+ *.tfoverride
+
+#  Ignore CLI configuration files
+ .terraformrc
+ terraform.rc

@@ -2,6 +2,9 @@
 .env
 .envrc
 
+# Opencode
+.opencode
+
 # Vim swap files
 *.swp
 *.swo
